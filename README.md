@@ -6,7 +6,8 @@ A collection of basic to intermediate Java programs written for practice, learni
 
 | File Name     | Description               |
 |---------------|---------------------------|
-| `reverse.java` | Reverses an array using recursion |
+| `Reverse.java` | Reverses an array using recursion |
+| `IsAnagram.java` | Hashmap-Anagram Pattern |
 
 ## 🛠️ Technologies Used
 - Java
