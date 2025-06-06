@@ -6,7 +6,7 @@ A collection of basic to intermediate Java programs written for practice, learni
 
 | File Name     | Description               |
 |---------------|---------------------------|
-| `Reverse.java` | Reverses an array using recursion |
+| `Reverse.java` | recursion- Reverses an array using recursion |
 | `IsAnagram.java` | Hashmap-Anagram Pattern |
 | `ValidParentheis.java` | stack-checking valid parentheses |
 

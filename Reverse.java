@@ -17,7 +17,12 @@ public class Reverse {
             vector.add(input.nextInt());  // Add elements to the list
         }
 
-        // Call reverse function
+        collectionReverse();
+
+        System.out.println("Reversed List:"+ vector);
+
+
+        // Call reverse function will set back to original
         reverseList(0, vector, n);
 
         // Output reversed list
@@ -25,6 +30,8 @@ public class Reverse {
         for (int i = 0; i < n; i++) {
             System.out.println(vector.get(i));
         }
+        
+        input.close();
     }
 
     // Recursive method to reverse the list
@@ -38,5 +45,9 @@ public class Reverse {
 
         // Recursive call
         reverseList(l + 1, vector, r);
+    }
+
+    public static void collectionReverse() {
+        Collections.reverse(vector);
     }
 }
