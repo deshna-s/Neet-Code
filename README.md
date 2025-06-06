@@ -20,4 +20,4 @@ A collection of basic to intermediate Java programs written for practice, learni
 
 1. Compile: example
    ```bash
-   javac reverse.java
+   javac Reverse.java
