@@ -18,6 +18,6 @@ A collection of basic to intermediate Java programs written for practice, learni
 
 ## 📌 How to Run
 
-1. Compile:
+1. Compile: example
    ```bash
    javac reverse.java
