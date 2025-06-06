@@ -8,7 +8,7 @@ A collection of basic to intermediate Java programs written for practice, learni
 |---------------|---------------------------|
 | `Reverse.java` | Reverses an array using recursion |
 | `IsAnagram.java` | Hashmap-Anagram Pattern |
-| `ValidParentheis.java` | stack-checking valid Paranthesis |
+| `ValidParentheis.java` | stack-checking valid parentheses |
 
 ## 🛠️ Technologies Used
 - Java
