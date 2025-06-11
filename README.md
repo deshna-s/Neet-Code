@@ -10,6 +10,7 @@ A collection of basic to intermediate Java programs written for practice, learni
 | `Palindrome.java` | recursion-checking whether string is palindrome or not|
 | `IsAnagram.java` | Hashmap-Anagram Pattern |
 | `ValidParentheis.java` | stack-checking valid parentheses |
+| `Fibonacci.java` | Multiple Recursion-sum of Fibonacci|
 
 ## 🛠️ Technologies Used
 - Java
